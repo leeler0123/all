@@ -1,2 +1,2 @@
-# all
-this is my git to wirte note and code.
+#   欢迎来到Leeler的github
+This is my git to wirte note and code.
